@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "this is a start to get ajob please",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "label": "The past i learn from",
+      "isCompleted": false
+    },
+    {
+      "label": "be pateint and smatr",
+      "isCompleted": true,
+      "id": 3
+    },
+    {
+      "label": "happy Ramadan",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "label": "search for a job ",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "label": "Hiii Go to sleep",
+      "isCompleted": true,
+      "id": 6
+    }
+  ]
+}
